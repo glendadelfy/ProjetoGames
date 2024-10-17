@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectGames</string>
+    <string name="txtProjeto">Project Games</string>
+    <string name="txtDesenvolvido">Developed by Glenda Delfy</string>
+    <string name="btnCadastro">Register</string>
+    <string name="btnLogin">Login</string>
+
+    <string name="txtTelaCadastro">Screen Registration</string>
+    <string name="editNome">Enter your name</string>
+    <string name="editIdade">Enter your age</string>
+    <string name="btnEnviar">Send</string>
+    <string name="txtResultado">Result</string>
+
+    <string name="btnEnvio">Send</string>
+    <string name="txtResultado2">Result</string>
+
+    <string name="txtTelaLogin">Screen Login</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtSenha">Password</string>
+    <string name="btnEntrar2">Login</string>
+    <string name="btnVoltar">Back</string>
+</resources>

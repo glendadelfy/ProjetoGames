@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProjetoGames</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txtProjeto">Projeto Games</string>
+    <string name="txtDesenvolvido">Desenvolvido por Glenda Delfy</string>
+    <string name="btnCadastro">Cadastre-se</string>
+    <string name="btnLogin">Entrar</string>
+
+    <string name="txtTelaCadastro">TELA CADASTRO</string>
+    <string name="editNome">Digite seu nome</string>
+    <string name="editIdade">Digite sua idade</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="txtResultado">Resultado</string>
+
+    <string name="btnEnvio">Enviar</string>
+    <string name="txtResultado2">Resultado</string>
+
+    <string name="txtTelaLogin">TELA LOGIN</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtSenha">Senha</string>
+    <string name="btnEntrar2">Entrar</string>
+    <string name="btnVoltar">Voltar</string>
+
+</resources>
